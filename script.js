@@ -1,5 +1,5 @@
 // FOR LOCAL TESTING: Points directly to your local computer port
-const BACKEND_URL = 'http://localhost:3000';
+const BACKEND_URL = 'https://trycloudflare.com';
 
 // Pull messages from backend
 async function loadMessages() {
